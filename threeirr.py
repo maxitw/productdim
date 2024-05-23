@@ -217,7 +217,7 @@ def J(n):
 
     return Poset(d)
 
-def famsN(n):
+def three_irr_posets(n):
     result = [
         ("A", A(n)),
         ("B", B()),
