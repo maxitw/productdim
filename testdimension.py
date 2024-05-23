@@ -40,7 +40,6 @@ def test_three(n):
         for (name2, p2) in fams[i:]:
             val = sat_dimension(p1.product(p2))
             results[f"{name1} x {name2}"] = val
-            print(results)
     return results
 
 if __name__ == "__main__":
