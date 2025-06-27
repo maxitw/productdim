@@ -1,6 +1,6 @@
 # Product Dimension
 
-This is a collection of python scripts to calculate the order dimension of posets. They were used to give credence to a conjecture by Reuter ([https://doi.org/10.1007/BF00563528](https://doi.org/10.1007/BF00563528) that $dim(P \times Q) \geq 4$, when $\dim(P), \dim(Q) \geq 3$. 
+This is a collection of python scripts to calculate the order dimension of posets. They were used to give credence to a conjecture by Reuter ([https://doi.org/10.1007/BF00563528](https://doi.org/10.1007/BF00563528)) that $dim(P \times Q) \geq 4$, when $\dim(P), \dim(Q) \geq 3$. 
 
 ## Dependencies
 
