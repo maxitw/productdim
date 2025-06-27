@@ -5,7 +5,7 @@ This is a collection of python scripts to calculate the order dimension of poset
 ## Dependencies
 
 - A recent version of SageMath
-- The kissat SAT solver. (ADD THE LINK)
+- The kissat SAT solver. [https://github.com/arminbiere/kissat](https://github.com/arminbiere/kissat)
 
 ## Contents
 
